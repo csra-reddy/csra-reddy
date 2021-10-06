@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chandrasekhar Reddy Anam
-- 👀 I’m interested in learning ML & AI
+- 👀 I’m currently working as business consultant with Big 4
 - 🌱 I’m currently learning Python for ML
 - 💞️ I’m looking to collaborate on ML & AI works
 - 📫 You can reach me on chandrasekharreddyanam.sitm@gmail.com
