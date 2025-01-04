@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandrasekhar Reddy Anam
+- 👋 Hi, I’m @Chandrasekhar
 - 👀 I’m currently working as technology consultant with Big 4
 - 📫 You can reach me on chandrasekharreddyanam.sitm@gmail.com
 
